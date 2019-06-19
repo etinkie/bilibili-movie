@@ -8,5 +8,5 @@
 3. 运行代码 `python3 bilibili_movie.py` 建议最好在jupyter notebook中使用，更加美观与方便
 
 > 代码原文地址：[https://www.teamssix.com/year/190619-202702.html](https://www.teamssix.com/year/190619-202702.html "https://www.teamssix.com/year/190619-202702.html")  
-> 代码演示视频地址：  
+> 代码演示视频地址：[https://www.bilibili.com/video/av56117996/](https://www.bilibili.com/video/av56117996/ "https://www.bilibili.com/video/av56117996/")  
 > 更多信息欢迎关注我的微信公众号：teamssix
