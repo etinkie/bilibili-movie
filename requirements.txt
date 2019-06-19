@@ -1,0 +1,4 @@
+Pyexecjs
+requests
+pandas
+IPython
